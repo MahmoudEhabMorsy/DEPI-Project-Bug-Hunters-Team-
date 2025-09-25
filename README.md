@@ -10,70 +10,101 @@
 ![Team](https://img.shields.io/badge/Team-Bug%20Hunters-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
+
 ---
 
-## Team Members  
-- Mahmoud Ehab Morsy  
-- Hussein Essam Imam  
-- Mohamed Rezk  
-- Dalia Abdallah Amer  
-- Abanob Ashraf Monir  
+## Team Members & Assignments  
+- Mahmoud Ehab Morsy – Part 1  
+- Hussein Essam Imam – Part 2  
+- Dalia Abdallah Amer – Part 3  
+- Abanob Ashraf Monir – Part 4 & Project Coordinator  
 
 ---
 
 ## Project Name  
-**AutomationExercise QA Suite**  
+AutomationExercise QA Suite  
 
 ---
 
-## Project Description  
-Automation Exercise is a comprehensive demo E-commerce web application developed for the purpose of practicing and testing automation workflows.  
-It replicates key features of a real-world online shopping platform and offers a wide range of interactive UI components.  
-This makes it an ideal environment for Quality Assurance engineers and developers to design, execute, and validate test automation scripts using Selenium.  
+## Project Overview  
+Automation Exercise is a demo E-commerce platform built for automation testing. This project implements a full end-to-end QA automation suite using Selenium, divided into 4 key phases, each assigned to a dedicated team member.  
 
 ---
 
-## Key Features  
-- Complete E-commerce Workflow: Supports product browsing, category filtering, product search, cart management, checkout, and order confirmation.  
-- User Authentication: Enables user registration, login, logout, and profile management for end-to-end user flow simulation.  
-- Product Search & Filtering: Allows testing of search functionalities and product filtering by various criteria.  
-- Contact Form: Provides a testable contact form for validating input fields, alerts, and submission behavior.  
-- Order Placement: Simulates the full purchase lifecycle from cart to final order review and confirmation.  
-- Automation-Ready Structure: Clean and consistent HTML element identifiers, ideal for developing robust Selenium-based test suites.  
+## Project Breakdown (with Assignees)  
+
+### Part 1: Environment Setup & Initial Testing  
+**Assignee:** Mahmoud Ehab Morsy  
+**Duration:** Week 1  
+
+**Objectives:**  
+- Set up Selenium environment (IDE, WebDriver, dependencies)  
+- Create project structure and configure test framework  
+- Write initial smoke test (e.g., homepage load verification)  
+
+**Deliverables:**  
+- Initialized GitHub repository  
+- Functional test setup and configurations  
+- First test script with basic assertions  
 
 ---
 
-## Use Cases  
-- Selenium-Based Test Automation: Practice developing and executing Selenium scripts for E2E testing.  
-- Test Framework Development: Build and validate custom automation frameworks centered on Selenium.  
-- UI Testing and Validation: Verify layout integrity, form validation, and user interface behavior under various conditions.  
-- Training and Skill Development: Suitable for QA teams or individuals looking to improve proficiency in Selenium and test automation.  
+### Part 2: Core User Journey Automation  
+**Assignee:** Hussein Essam Imam  
+**Duration:** Week 2  
+
+**Objectives:**  
+- Automate key user flows:  
+  - Sign up, login, logout  
+  - Product search and filtering  
+  - Add to cart and cart validation  
+- Include assertions for flow validation  
+
+**Deliverables:**  
+- Selenium scripts for major E-commerce flows  
+- Organized test classes and reusable methods  
+- Documented test scenarios and results  
 
 ---
 
-## Why Use Automation Exercise?  
-- Freely accessible with no authentication barriers  
-- Comprehensive simulation of real-world E-commerce scenarios  
-- Reliable and stable for test automation development  
-- Frequently used in QA training, interviews, and educational materials  
-- Ideal for building a professional test automation portfolio  
+### Part 3: Checkout Process & Edge Case Testing  
+**Assignee:** Dalia Abdallah Amer  
+**Duration:** Week 3  
+
+**Objectives:**  
+- Automate checkout process:  
+  - Cart → Checkout → Payment → Order confirmation  
+- Handle input validations, alerts, and exceptions  
+- Test edge cases (e.g., invalid inputs, empty cart)  
+
+**Deliverables:**  
+- Complete checkout automation  
+- Negative test cases for validation  
+- Test results summary with screenshots/logs  
 
 ---
 
-## Project Plan  
-- Week 1: Environment setup and initial Selenium script  
-- Week 2: Automating core user flows (login, product search, cart)  
-- Week 3: Checkout process automation and validation  
-- Week 4: Script refactoring, error handling, and final reporting  
+### Part 4: Refactoring, Reporting & Final Review  
+**Assignee:** Abanob Ashraf Monir  
+**Duration:** Week 4  
+
+**Objectives:**  
+- Refactor code using Page Object Model (POM)  
+- Generate final test reports (e.g., TestNG, Allure)  
+- Prepare final QA report and documentation  
+- Summarize findings and suggest improvements  
+
+**Deliverables:**  
+- Clean, modular test architecture  
+- Final test reports and metrics  
+- QA documentation and project summary  
 
 ---
 
-## Deliverables  
-- Test case documentation (in Excel or Markdown format)  
-- Selenium test scripts (well-structured and documented)  
-- Final QA report including bug logs, coverage summary, and enhancement suggestions  
+## Final Deliverables  
+- Well-structured Selenium test suite  
+- Test case documentation (Excel or Markdown)  
+- Bug and defect report with evidence  
+- Final QA report and team presentation  
 
----
-
-Made with passion by Bug Hunters  
 
