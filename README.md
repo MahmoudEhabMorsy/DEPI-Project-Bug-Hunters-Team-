@@ -2,7 +2,7 @@
 [OPEN IN GOOGLE DRIVE](https://drive.google.com/drive/folders/1Blc4F-n1Kfdbi5_vV3LR41avmRcmFsIO?usp=sharing)
 
 
-# 🧪  AutomationExercise QA Project
+#  AutomationExercise QA Project
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Tech](https://img.shields.io/badge/Tech-Selenium%20WebDriver-blue)
