@@ -8,8 +8,6 @@
 ![Tech](https://img.shields.io/badge/Tech-Selenium%20WebDriver-blue)
 ![Language](https://img.shields.io/badge/Language-Java-green)
 ![Team](https://img.shields.io/badge/Team-Bug%20Hunters-red)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
 
 ---
 
