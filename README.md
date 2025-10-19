@@ -13,8 +13,7 @@
 
 ## Team Members & Assignments  
 - Mahmoud Ehab Morsy – Part 1  
-- Hussein Essam Imam – Part 2
-- Mohamed Rezk       – Part 2  
+- Hussein Essam Imam – Part 2 
 - Dalia Abdallah Amer – Part 3  
 - Abanob Ashraf Monir – Part 4 & Project Coordinator  
 
@@ -49,7 +48,7 @@ Automation Exercise is a demo E-commerce platform built for automation testing. 
 ---
 
 ### Part 2: Core User Journey Automation  
-**Assignee:** Hussein Essam Imam/Mohamed Rezk  
+**Assignee:** Hussein Essam Imam
 **Duration:** Week 2  
 
 **Objectives:**  
