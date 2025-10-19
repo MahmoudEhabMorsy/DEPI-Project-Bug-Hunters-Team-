@@ -1,5 +1,6 @@
 # DEPI-Project-Bug-Hunters-Team-
 [OPEN IN GOOGLE DRIVE](https://drive.google.com/drive/folders/1Blc4F-n1Kfdbi5_vV3LR41avmRcmFsIO?usp=sharing)
+
 [OPEN IN JIRA](https://depi-bug-hunters.atlassian.net/jira/software/projects/KAN/boards/1?atlOrigin=eyJpIjoiNjIxYzAzMDAxYjEyNDI5NTlmNmUzOWVkYWNkNGU4NjQiLCJwIjoiaiJ9)
 
 #  AutomationExercise QA Project
