@@ -1,8 +1,4 @@
-# AutomationExercise QA Project
-
----
-
-## Project Name
+# Project Name
 **AutomationExercise QA Suite**
 
 ---
