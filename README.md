@@ -1,109 +1,94 @@
 # DEPI-Project-Bug-Hunters-Team-
+
+
+
+# AutomationExercise QA Project
+
+---
+
+## Project Name
+**AutomationExercise QA Suite**
+
+---
+
+## Project Idea
+Automation Exercise is a demo **E-commerce platform** built specifically for automation testing. This project implements a full **end-to-end QA automation suite** using **Selenium WebDriver** and **Java**, divided into 4 key phases to ensure comprehensive test coverage of core user journeys, checkout, and system integrity.
+
+---
+
+## Team Members (BugHunters)
+| Name | Primary Role | Assigned Part |
+| :--- | :--- | :--- |
+| **Abanob Ashraf Monir** | Project Coordinator, Refactoring & Reporting | Part 4 |
+| **Mahmoud Ehab Morsy** | Environment Setup & Initial Testing | Part 1 |
+| **Hussein Essam Imam** | Core User Journey Automation | Part 2 |
+| **Dalia Abdallah Amer** | Checkout Process & Edge Case Testing | Part 3 |
+
+---
+
+## Work Plan
+
+### Research & Analysis
+* **Audience personas:** *Not Applicable for a QA project; focusing on **Test Scenarios** instead.* Test Scenarios cover user flows like **Registration**, **Login**, **Product Search**, and **Checkout**.
+
+### Visual Identity
+* **Logo design:** *Not Applicable.*
+
+### Main Designs
+* **Poster:** *Not Applicable; focusing on **Test Architecture** instead.* The project uses a **Modular Design** with a plan to refactor to a **Page Object Model (POM)**.
+
+### Complementary Products
+* The final deliverables include a **Well-structured Selenium test suite**, **Test case documentation (Excel/Markdown)**, and a **Bug and defect report with evidence**.
+
+### Review & Finalization
+This phase includes **Code Refactoring (POM)**, generating **Final Test Reports (e.g., TestNG, Allure)**, and preparing the **Final QA Report and Documentation**.
+
+### Final Presentation
+The team will provide a **QA Documentation and Project Summary** during the final presentation.
+
+---
+
+## Roles & Responsibilities
+
+| Part | Title | Assignee | Duration | Key Objectives |
+| :--- | :--- | :--- | :--- | :--- |
+| **Part 1** | Environment Setup & Initial Testing | Mahmoud Ehab Morsy | Week 1 | Set up Selenium environment, configure framework, write initial smoke test. |
+| **Part 2** | Core User Journey Automation | Hussein Essam Imam | Week 2 | Automate Sign up, Login, Search, Add to Cart flows with assertions. |
+| **Part 3** | Checkout Process & Edge Case Testing | Dalia Abdallah Amer | Week 3 | Automate full checkout (Cart → Payment), handle validations and edge cases (e.g., empty cart). |
+| **Part 4** | Refactoring, Reporting & Final Review | Abanob Ashraf Monir | Week 4 | Refactor to POM, generate final reports, prepare documentation. |
+
+---
+
+## KPIs (Key Performance Indicators) – Metrics for project success
+The success of this QA project is measured by the following metrics:
+* **Test Coverage:** Percentage of critical user paths and features covered by automated tests.
+* **Defect Detection Efficiency:** Rate at which the automated suite identifies existing defects.
+* **Test Execution Time:** Overall time taken to run the complete end-to-end test suite.
+* **Code Maintainability:** Quality metrics after POM refactoring.
+* **Pass Rate:** The percentage of tests that pass during final execution.
+
+---
+
+## Instructor
+Abdelrahman Osama
+
+---
+
+## Project Files
+You can find the full project files here:
 [OPEN IN GOOGLE DRIVE](https://drive.google.com/drive/folders/1Blc4F-n1Kfdbi5_vV3LR41avmRcmFsIO?usp=sharing)
 
 [OPEN IN JIRA](https://depi-bug-hunters.atlassian.net/jira/software/projects/KAN/boards/1?atlOrigin=eyJpIjoiNjIxYzAzMDAxYjEyNDI5NTlmNmUzOWVkYWNkNGU4NjQiLCJwIjoiaiJ9)
+---
 
-#  AutomationExercise QA Project
+## License
+This project is licensed under the **MIT License** (or other license, e.g., Apache 2.0).
 
+---
+
+## Badges
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Tech](https://img.shields.io/badge/Tech-Selenium%20WebDriver-blue)
 ![Language](https://img.shields.io/badge/Language-Java-green)
 ![Team](https://img.shields.io/badge/Team-Bug%20Hunters-red)
-
----
-
-## Team Members & Assignments  
-- Mahmoud Ehab Morsy – Part 1  
-- Hussein Essam Imam – Part 2 
-- Dalia Abdallah Amer – Part 3  
-- Abanob Ashraf Monir – Part 4 & Project Coordinator  
-
----
-
-## Project Name  
-AutomationExercise QA Suite  
-
----
-
-## Project Overview  
-Automation Exercise is a demo E-commerce platform built for automation testing. This project implements a full end-to-end QA automation suite using Selenium, divided into 4 key phases, each assigned to a dedicated team member.  
-
----
-
-## Project Breakdown (with Assignees)  
-
-### Part 1: Environment Setup & Initial Testing  
-**Assignee:** Mahmoud Ehab Morsy  
-**Duration:** Week 1  
-
-**Objectives:**  
-- Set up Selenium environment (IDE, WebDriver, dependencies)  
-- Create project structure and configure test framework  
-- Write initial smoke test (e.g., homepage load verification)  
-
-**Deliverables:**  
-- Initialized GitHub repository  
-- Functional test setup and configurations  
-- First test script with basic assertions  
-
----
-
-### Part 2: Core User Journey Automation  
-**Assignee:** Hussein Essam Imam
-**Duration:** Week 2  
-
-**Objectives:**  
-- Automate key user flows:  
-  - Sign up, login, logout  
-  - Product search and filtering  
-  - Add to cart and cart validation  
-- Include assertions for flow validation  
-
-**Deliverables:**  
-- Selenium scripts for major E-commerce flows  
-- Organized test classes and reusable methods  
-- Documented test scenarios and results  
-
----
-
-### Part 3: Checkout Process & Edge Case Testing  
-**Assignee:** Dalia Abdallah Amer  
-**Duration:** Week 3  
-
-**Objectives:**  
-- Automate checkout process:  
-  - Cart → Checkout → Payment → Order confirmation  
-- Handle input validations, alerts, and exceptions  
-- Test edge cases (e.g., invalid inputs, empty cart)  
-
-**Deliverables:**  
-- Complete checkout automation  
-- Negative test cases for validation  
-- Test results summary with screenshots/logs  
-
----
-
-### Part 4: Refactoring, Reporting & Final Review  
-**Assignee:** Abanob Ashraf Monir  
-**Duration:** Week 4  
-
-**Objectives:**  
-- Refactor code using Page Object Model (POM)  
-- Generate final test reports (e.g., TestNG, Allure)  
-- Prepare final QA report and documentation  
-- Summarize findings and suggest improvements  
-
-**Deliverables:**  
-- Clean, modular test architecture  
-- Final test reports and metrics  
-- QA documentation and project summary  
-
----
-
-## Final Deliverables  
-- Well-structured Selenium test suite  
-- Test case documentation (Excel or Markdown)  
-- Bug and defect report with evidence  
-- Final QA report and team presentation  
-
 
