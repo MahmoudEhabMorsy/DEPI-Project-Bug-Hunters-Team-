@@ -1,7 +1,3 @@
-# DEPI-Project-Bug-Hunters-Team-
-
-
-
 # AutomationExercise QA Project
 
 ---
