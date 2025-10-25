@@ -8,6 +8,7 @@
 ![Team](https://img.shields.io/badge/Team-Bug%20Hunters-red)
 
 </div>
+
 ---
 
 ## Project Idea
