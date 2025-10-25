@@ -1,5 +1,9 @@
 # Project Name
 **AutomationExercise QA Suite**
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Tech](https://img.shields.io/badge/Tech-Selenium%20WebDriver-blue)
+![Language](https://img.shields.io/badge/Language-Java-green)
+![Team](https://img.shields.io/badge/Team-Bug%20Hunters-red)
 
 ---
 
@@ -77,12 +81,4 @@ You can find the full project files here:
 
 ## License
 This project is licensed under the **MIT License** (or other license, e.g., Apache 2.0).
-
----
-
-## Badges
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Tech](https://img.shields.io/badge/Tech-Selenium%20WebDriver-blue)
-![Language](https://img.shields.io/badge/Language-Java-green)
-![Team](https://img.shields.io/badge/Team-Bug%20Hunters-red)
 
