@@ -1,4 +1,4 @@
-<center> # **AutomationExercise QA Suite** <center>
+<center> # **AutomationExercise QA Suite** </center>
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ![Tech](https://img.shields.io/badge/Tech-Selenium%20WebDriver-blue)
